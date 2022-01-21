@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+h1{
+    color: orangered;
+}
+
+#status{
+ color: white;
+font-size: 25px;
+}
+
+canvas{
+    background-color: chartreuse;
+    border-radius: 40px;
+}
